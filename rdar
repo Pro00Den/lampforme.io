@@ -1,5 +1,5 @@
 (function () {
     'use strict';
-    Lampa.Storage.set('myplugin','{}');
-    window.location.href = "http://bofdiltp.deploy.cx";
+    Lampa.Platform.tv();
+      window.location.href = 'http://bofdiltp.deploy.cx'
 })();
